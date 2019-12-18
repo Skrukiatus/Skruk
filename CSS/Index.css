@@ -1,5 +1,5 @@
 body{
-	font-family: "robot", sans-serif;
+	font-family: "Cinzel", "robot", sans-serif;
 	background-image: url(http://www.spaceops2018.org/upload/fond/space.jpeg);
 
 }
@@ -27,12 +27,10 @@ header{
 	margin: 0 auto;
 }
 .text{
-	position: relative;
-	left:50px;
 	text-align: left;
 	font-size: 30px;
 	color: #313131;
-	font-family: "curier new", monospace;
+	font-family: "IM Fell Great Primer", "curier new", serif;
 	padding-left: 200px;
 	margin:0;
 }
@@ -41,6 +39,7 @@ main{
 	background-color: #333333;
 	border-radius: 30px;
 	margin:0 auto;
+	margin-top: 50px;
 	max-width: 900px;
 
 }
