@@ -1,0 +1,50 @@
+body{
+	font-family: "robot", sans-serif;
+	background-image: url(http://www.spaceops2018.org/upload/fond/space.jpeg);
+
+}
+h3{
+	font-size:60px;
+	padding-top:120px;
+	padding-left: 50px;
+	text-align: left;
+	color: white;
+	margin: 0px;
+}
+
+a{
+	color: darkred;
+}
+a:hover{
+	color: white;
+	background-color: darkred;
+}
+header{
+	align-content: center;
+	background-image: url(https://cdn.discordapp.com/attachments/477527791794126867/656930006173351936/Header.png);
+	border-radius: 50px;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.text{
+	position: relative;
+	left:50px;
+	text-align: left;
+	font-size: 30px;
+	color: #313131;
+	font-family: "curier new", monospace;
+	padding-left: 200px;
+	margin:0;
+}
+main{
+	text-align: center;
+	background-color: #333333;
+	border-radius: 30px;
+	margin:0 auto;
+	max-width: 900px;
+
+}
+main p{
+	color: gray;
+}
+
